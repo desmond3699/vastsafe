@@ -1,0 +1,27 @@
+﻿#EXTM3U
+#EXTINF:-0 ,TV3
+http://tv3liveflash-lh.akamaihd.net/z/tv3live_3@86099/manifest.f4m?hdcore=2.7.6&g=FNKHFJLVNFDR
+
+#EXTINF:-0 ,ASTRO AWANI
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+
+#EXTINF:-0 ,TV9
+http://tv9iossecure-i.akamaihd.net/hls/live/225718/ios/tv9ios_sp/20160615T122214/master1002/00005/master1002_01515.ts
+
+#EXTINF:-0 ,TVi
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:-0 ,MUZIK AKTIF
+http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4N30.ro-QIyNGm1WGKnhd0gri7rJExai4M233NUujCBhcEH3EadH1dah1q6xGxQREPeF7Zg2jxYPrFiqU1-w_Kt8fSQ
+
+#EXTINF:-0 ,AL HIJRAH
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+
+#EXTINF:-0 ,ASTRO PRIMA
+http://www.layarku.tv/media/primav6.m3u8
+
+#EXTINF:-0 ,ASTRO RIA
+http://www.layarku.tv/media/riav6.m3u8
+
+#EXTINF:-0 ,ASTRO WARNA
+http://www.layarku.tv/media/warnav6.m3u8
